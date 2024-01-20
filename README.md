@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ev306q2vti738prs1byzzgfb4hfk0uf15t7a2t1l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?size=1080x353&lossy=2&strip=1&webp=1)
 <h1 align="center">Hi 👋, I'm Kostiantyn Yusupov</h1>
 <h3 align="center">I’m a student of IT studies with Front-end specialization. I’m constantly developing towards Web-dev. The studies are part-time, which allows me to work full-time. I'm currently looking for my first experience as a junior front-end developer.</h3>
 
