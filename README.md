@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1703721600&v=beta&t=nm2DTQGZ43yLYuYF8cIe9lI-7g6kwhHch86xWZ2zfc0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bajeczneobrazy.pl%2Fobrazy-na-plotnie%2Fweb-development-banner-web-icon-for-business-website-programing-usability-coding-developer-full-stack-testing-and-optimize-minimal-flat-vector-infographic-377082215&psig=AOvVaw0xfi0lmG6ta1bUxmvyhYgk&ust=1705856144499000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiy3r637IMDFQAAAAAdAAAAABAD))
+![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ev306q2vti738prs1byzzgfb4hfk0uf15t7a2t1l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Kostiantyn Yusupov</h1>
 <h3 align="center">I’m a student of IT studies with Front-end specialization. I’m constantly developing towards Web-dev. The studies are part-time, which allows me to work full-time. I'm currently looking for my first experience as a junior front-end developer.</h3>
 
